@@ -1,16 +1,25 @@
-# pe_de_meia
 
-A new Flutter project.
+![logo](https://user-images.githubusercontent.com/87053532/205473411-78778eec-cf70-43de-b5f5-6cdee35689ff.png)
 
-## Getting Started
+Com intuito de melhorar o planejamento financeiro, o aplicativo mutiplataforma desenvolvido em flutter **pé de meia** foi desenvolvido.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Obtenha o código-fonte do repositório Flutter no GitHub e altere as ramificações ou tags conforme necessário. Por exemplo:
+```bash
+ $ git clone https://github.com/flutter/flutter.git -b stable
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+Agora você está pronto para executar comandos do Flutter no console do Flutter.
+
+## Instalação Supabase for Flutter
+
+```bash
+$ flutter pub add supabase_flutter
+
+```
+
+#### Observação:
+Para instalar e consumir as API's da [Supabase](https://supabase.com/) precisa fazer seu cadastro na plataforma, criar sua organização e então inicializar um projeto.
+
